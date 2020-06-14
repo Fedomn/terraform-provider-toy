@@ -1,0 +1,6 @@
+.terraform/
+.terragrunt-cache/
+*.tfplan
+*.tfstate
+*.backup
+terraform-provider-toy
